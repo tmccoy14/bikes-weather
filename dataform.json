@@ -4,5 +4,5 @@
     "assertionSchema": "dataform_assertions",
     "defaultDatabase": "discovery-lab",
     "useRunCache": false,
-    "defaultLocation": "us-east4"
+    "defaultLocation": "US"
 }
